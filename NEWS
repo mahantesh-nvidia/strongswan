@@ -1,3 +1,10 @@
+strongswan-6.0
+--------------
+
+* Support of Quantum Save Key Exchange (QSKE) algorithms using the 
+  new IKE_INTERMEDIATE payload.
+
+
 strongswan-5.9.0
 ----------------
 
